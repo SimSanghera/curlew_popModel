@@ -1,0 +1,35 @@
+---
+title: "Egyptian Vulture Pop Viability Analysis"
+author: "N. Simon Sanghera"
+date: "12/11/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+\
+Steffen Oppel script for Egyptian vultures - I am writing out to try and understand the code and functions used.
+This is based on Liury et al. 2015.
+  
+  
+### Preparation  
+  
+```{r libaries, echo = FALSE}
+library(readxl)
+library(jagsUI)
+library(tidyverse)
+library(ggplot2)
+library(data.table)
+library(lubridate)
+library(janitor)
+filter <- dplyr::filter
+select <- dplyr::select
+
+```
+  
+
+### Section 1: Loading and manipulating population data  
+

@@ -1,0 +1,30 @@
+# History files
+*.Rhistory
+.Rapp.history
+
+*.db
+*.ini
+
+# Ignore tiff files
+*.TIFF
+*.TIF
+*.tiff
+*.tif
+
+# Session Data files
+.RData
+.RDataTmp
+
+# Large data files
+/data/NI_HS_scenario_A_parameters_reduced.csv
+/data/NI_HS_scenario_A_parameters_lowphil_highfid.csv
+
+# Folders
+temp
+notes
+paper
+presentations
+
+# RStudio Connect folder
+rsconnect/
+.Rproj.user

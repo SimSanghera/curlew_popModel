@@ -1,0 +1,25 @@
+"Parameters","Values","Lambda","PercDiff"
+"Philopatry","low",0.7438743,-0.252281008378485
+"Philopatry","med",0.7457557,0
+"Philopatry","high",0.7476104,0.248700747443162
+"Adult Survival","low",0.7457557,0
+"Adult Survival","med",0.808257,8.38093493619961
+"Adult Survival","high",0.8581207,15.0672666665504
+"Fledgling Survival","low",0.7457557,0
+"Fledgling Survival","med",0.748528,0.371743722508584
+"Fledgling Survival","high",0.7496661,0.5243540210286
+"Immature Survival","low",0.7457557,0
+"Immature Survival","med",0.7469179,0.155841919813687
+"Immature Survival","high",0.7492117,0.463422539043284
+"Subadult Survival","low",0.7457557,0
+"Subadult Survival","med",0.7461142,0.0480720428955392
+"Subadult Survival","high",0.7464716,0.0959965844042481
+"Prod Rates","low",0.7457557,0
+"Prod Rates","med",0.7516267,0.787255129260153
+"Prod Rates","high",0.7572506,1.5413760833474
+"Initial Pop Size","low",0.7457557,0
+"Initial Pop Size","med",0.7457557,0
+"Initial Pop Size","high",0.7457557,0
+"Adult Return Rate","low",0.5909592,-20.7569985720525
+"Adult Return Rate","med",0.6682914,-10.3873560738456
+"Adult Return Rate","high",0.7457557,0

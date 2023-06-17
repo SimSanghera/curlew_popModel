@@ -1,0 +1,16 @@
+---
+title: "Curlew Population Viability Analysis v1"
+author: "N. Simon Sanghera"
+date: "02/12/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+This is a simple model of the current projections of curlew populations in Northern Ireland and Ireland, using demographic rates to estimate adult and chick numbers. Vital rates were extracted from the literature and discussed with the steering group to assess whether they were suitable. As the model evolves and more data is found, these rates may change to reduce the uncertainty within the model.  
+  
+
